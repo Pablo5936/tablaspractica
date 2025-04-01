@@ -1,0 +1,77 @@
+body {
+  background-color: #E5E4E2;
+  color: black;
+  width: 90%;
+  margin: auto;
+}
+
+table {
+  border-width: thin;
+  border-style: solid;
+  width: 40%;
+  text-align: center;
+  margin: auto;
+}
+
+td {
+  border-width: thin;
+  border-style: groove;
+  height: 100px;
+  width: 120px;
+}
+
+tr {
+  height: 20%;
+}
+
+.respeto {
+  background-color: #FF7F50;
+}
+
+.amor {
+  background-color: #D473D4;
+}
+
+.libertad {
+  background-color: #20B2AA;
+}
+
+.justicia {
+  background-color: #F4C2C2;
+}
+
+.disciplina {
+  background-color: #29AB87;
+}
+
+.tolerancia {
+  background-color: #893F45;
+}
+
+.valores {
+  background-color: #DAC8AE;
+}
+
+.dialogo {
+  background-color: #D2691E;
+}
+
+.equidad {
+  background-color: #DDD06A;
+}
+
+.lealtad {
+  background-color: #4997D0;
+}
+
+.responsabilidad {
+  background-color: #F4C2C2;
+}
+
+.honestidad {
+  background-color: #9AB973;
+}
+
+.paz {
+  background-color: #E6E6FA;
+}

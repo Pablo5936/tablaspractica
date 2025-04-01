@@ -1,0 +1,67 @@
+body {
+  background-color: #72A0C1;
+  color: black;
+  width: 90%;
+  margin: auto;
+  background-image: url(../img/fondo.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+table {
+  border-width: thin;
+  border-style: solid;
+  width: 60%;
+  text-align: center;
+  margin: 9%;
+  color: black;
+  border: black 1px solid;
+}
+
+td {
+  border-width: thin;
+  border-style: groove;
+  height: 120px;
+  width: 120px;
+  border: black 1px solid;
+}
+
+.frutas {
+  background-color: #FF9966;
+}
+
+.naranja {
+  background-color: #FF5800;
+}
+
+.brocoli {
+  background-color: #177245;
+}
+
+.piña {
+  background-color: #FCF75E;
+}
+
+.fruver {
+  height: 50px;
+}
+
+.pepino {
+  background-color: #ACE1AF;
+}
+
+.berenjena {
+  background-color: #9A4EAE;
+}
+
+.fresa {
+  background-color: #DC143C;
+}
+
+.verduras {
+  background-color: #81D8D0;
+}
+
+.fruver {
+  background-color: #B9D9EB;
+}
