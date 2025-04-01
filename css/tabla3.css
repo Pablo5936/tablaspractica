@@ -1,0 +1,65 @@
+body {
+  font-family: monospace;
+  background-color: #E5E4E2;
+  color: black;
+  width: 90%;
+  margin: auto;
+  background-image: url(../img/fondo2.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+  margin-top: 4%;
+}
+
+table {
+  border-width: thin;
+  border-style: solid;
+  width: 55%;
+  text-align: center;
+  margin-top: 10%;
+  color: black;
+  border: black 1px solid;
+}
+
+td {
+  border-width: thin;
+  border-style: groove;
+  height: 30px;
+  width: 90px;
+  border: black 1px solid;
+}
+
+img {
+  width: 100%;
+  height: 175px;
+}
+
+
+.perro {
+  height: 40px;
+  background-color: #C19A6B;
+}
+
+.diferencias {
+  background-color: #C19A6B;
+}
+
+.hombre {
+  background-color: #C19A6B;
+}
+
+.tamaño,
+.pelo,
+.tiempo {
+  background-color: #9F8170;
+}
+
+.celda1 {
+  background-color: #DAC8AE;
+}
+
+.celda {
+  background-color: #F5F5DC;
+}

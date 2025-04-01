@@ -1,8 +1,16 @@
 body {
+  font-family: fantasy;
   background-color: #E5E4E2;
   color: black;
   width: 90%;
   margin: auto;
+  background-image: url(../img/fondo3.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+  color: #343434;
 }
 
 table {
